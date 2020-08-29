@@ -1,5 +1,5 @@
 {
-  "name": "netlify-express",
+  "name": "correctlyapi",
   "version": "0.0.1",
   "description": "Example of how to deploy a Express.js Netlify app.",
   "main": "functions/server.js",
@@ -30,6 +30,7 @@
     "netlify-lambda": "^1.6.3",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
+    "morgan": "~1.9.1",
     "nodemon": "^1.19.2",
     "serverless-http": "^2.3.0",
     "node-fetch": "^2.6.0"
