@@ -1,0 +1,29 @@
+{
+    "ipaddress":"https://neo4jmc1.livolearn.com:7473",
+    "authorization": "Basic bmVvNGo6bGl2bw==",
+    "commitCommand": "https://neo4jmc1.livolearn.com:7473/db/neo4j/tx/commit",
+    "users":[
+        {
+            "email":"saleem.javed@testkit.in",
+            "role":"admin"
+        },
+        {
+            "email":"sj112233@gmail.com",
+            "role":"admin"
+        },
+        {
+            "email":"gagan@testkit.in",
+            "role":"user"
+        },
+        {
+            "email":"anurag@testkit.in",
+            "role":"user"
+        },
+        {
+            "email":"hemant@testkit.in",
+            "role":"admin"
+        }
+
+    ]
+
+}
